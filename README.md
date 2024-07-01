@@ -13,7 +13,8 @@ This project demonstrates the use of YOLOv5 to detect footballs and basketballs 
 - [Usage](#usage)
 
 ## Overview
-![image](https://github.com/tyl-99/football-basketball-detector/assets/71328888/bc3738b4-9c12-4c24-bb2b-6d37eac0ecb0)
+![image](https://github.com/tyl-99/football-basketball-detector/assets/71328888/7b193242-5e21-4f0b-b31d-5ff96a3ecc1d)
+
 
 This is a short project to detect footballs and basketballs in images using the YOLOv5 model. The model is trained to accurately identify and locate these sports balls in various images.
 
